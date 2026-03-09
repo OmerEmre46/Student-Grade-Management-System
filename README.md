@@ -15,9 +15,8 @@ A simple yet efficient Student Grade Management System developed in C. This proj
 * A C compiler (e.g., GCC).
 * Git (to clone the repository).
 
-### How to Run
+## How to Run
+
 1. Clone the repository:
-   ```bash
-  1. Clone the repository:
    ```bash
    git clone [https://github.com/OmerEmre46/Student-Grade-Management-System.git](https://github.com/OmerEmre46/Student-Grade-Management-System.git)
