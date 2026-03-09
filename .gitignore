@@ -1,1 +1,5 @@
 ogrenciler.txt
+*.exe
+*.o
+*.obj
+*.R
