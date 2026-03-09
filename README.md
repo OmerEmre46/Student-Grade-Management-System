@@ -18,4 +18,6 @@ A simple yet efficient Student Grade Management System developed in C. This proj
 ### How to Run
 1. Clone the repository:
    ```bash
+  1. Clone the repository:
+   ```bash
    git clone [https://github.com/OmerEmre46/Student-Grade-Management-System.git](https://github.com/OmerEmre46/Student-Grade-Management-System.git)
